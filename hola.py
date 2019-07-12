@@ -1,4 +1,4 @@
 print ("Hola Git :)")
-nombre= input ('Ingresa tu nombre:')
+nom= input ('Ingresa tu nombre:')
 
-print ("Bienvenid@: ", nombre)
+print ("Bienvenida: ", nombre)
