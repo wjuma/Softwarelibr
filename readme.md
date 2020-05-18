@@ -36,17 +36,22 @@ node app publicar -help
 Al ingresar a la siguiente página: https://datos.bancomundial.org/indicador/IT.CEL.SETS
 Esta nos indicara los años y paises disponibles para poder guiarse y hacer las consultas en esta aplicación.
 
+Tomando en cuenta que en -f se debera ingresar el path del csv
+y en -o el nombre del archivo donde se guardaran los respectivos reportes.
+
 Ejecutar una prueba de guardar. (Ejemplo)
 
-- node app guardar -f ./modelo/API.csv -y 2017 -c KOR -o Hola
+- node app guardar -f ./modelo/doc.csv -y 2018 -c ECU -o reporte
 
 Ejecutar una prueba de publicar. (Ejemplo)
 
-- node app publicar -f ./modelo/API.csv -y 2017 -c KOR
+- node app publicar -f ./modelo/doc.csv -y 2018 -c ECU
 
 Al ejecutar el comando de publicar se le presentara el siguiente link que se dirigira a la página web: http://localhost:3000
 
 ### Analisis de prueba por consola 🔩
+
+Enfocandose en la consulta hecha anteriormente se desplegara la siguiente información:
 
 - La media de suscripciones de todos los países en el año especificado.
 
@@ -56,6 +61,11 @@ LA MEDIA DEL 2018 ES 308242982
 
 - Establecer si el valor de las suscripciones del país
   determinado, es mayor o menor a la media mundial.
+
+```html
+El valor de las suscripciones del pais ECU:(15772838) es Menor a la media
+mundial:(308242982.1628788) en el año 2018
+```
 
 - Los cinco países por encima del valor de suscripciones del
   país determinado.
