@@ -133,44 +133,33 @@ MIC | 5970863639
 IBD | 5194063717
 ```
 
-### Y las pruebas de estilo de codificación ⌨️
-
-Explica que verifican estas pruebas y por qué
-
-Da un ejemplo
-
 ## Despliegue 📦
 
 Agrega notas adicionales sobre como hacer deploy
 
 ## Construido con 🛠️
 
-Menciona las herramientas que utilizaste para crear tu proyecto
+Las herramientas que utilizamos son:
 
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-- [Maven](https://maven.apache.org/) - Manejador de dependencias
-- [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+- [Node.js]
+- [Json]
+- [HBS]
+- [Html]
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+Los recursos utilizados han sido los siguientes:
 
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+[Wiki](https://github.com/tu/proyecto/wiki)
 
 ## Autores ✒️
 
-Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
-
-- _Andrés Villanueva_ - Trabajo Inicial - [villanuevand](https://github.com/villanuevand)
-- _Fulanito Detal_ - Documentación - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto.
+- _Nicolas Carrasco_
+- _Oscar Jimenez_
+- _Wendy Juma_ -
+- _Eduardo Quisupangui_ -
+- _Kevin Ramirez_ -
+  También puedes mirar la lista de todos los [contribuyentes](https://github.com/ojimenezl/ProyectoPrimerParcialPW/graphs/contributors) quíenes han participado en este proyecto.
 
 ## Licencia 📄
 
