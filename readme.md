@@ -24,13 +24,17 @@ npm i
 Este comando nos despliega unas opciones de ayuda para poder ejecutar la aplicación.
 
 ```html
-node app guardar -help node app publicar -help
+node app guardar -help
+```
+
+```html
+node app publicar -help
 ```
 
 ## Ejecutando las pruebas ⚙️
 
 Al ingresar a la siguiente página: https://datos.bancomundial.org/indicador/IT.CEL.SETS
-Esta nos indicara los años y paises disponibles para poder guiarse y hacer las consultas en nuestra aplicación.
+Esta nos indicara los años y paises disponibles para poder guiarse y hacer las consultas en esta aplicación.
 
 Ejecutar una prueba de guardar. (Ejemplo)
 
@@ -40,9 +44,9 @@ Ejecutar una prueba de publicar. (Ejemplo)
 
 - node app publicar -f ./modelo/API.csv -y 2017 -c KOR
 
-Por medio de este link se dirigira a la página web: http://localhost:3000
+Al ejecutar el comando de publicar se le presentara el siguiente link que se dirigira a la página web: http://localhost:3000
 
-### Analice las pruebas end-to-end 🔩
+### Analisis de prueba por consola 🔩
 
 - La media de suscripciones de todos los países en el año especificado.
 
@@ -135,18 +139,18 @@ IBD | 5194063717
 
 ## Despliegue 📦
 
-Agrega notas adicionales sobre como hacer deploy
+Implementación de gráficas y tablas en la página web.
 
 ## Construido con 🛠️
 
 Las herramientas que utilizamos son:
 
-- [Node.js]
-- [Json]
-- [HBS]
-- [Html]
+- Node.js
+- Json
+- HBS
+- Html
 
-## Wiki 📖
+## Recursos 📖
 
 Los recursos utilizados han sido los siguientes:
 
@@ -156,25 +160,19 @@ Los recursos utilizados han sido los siguientes:
 
 - _Nicolas Carrasco_
 - _Oscar Jimenez_
-- _Wendy Juma_ -
-- _Eduardo Quisupangui_ -
-- _Kevin Ramirez_ -
-  También puedes mirar la lista de todos los [contribuyentes](https://github.com/ojimenezl/ProyectoPrimerParcialPW/graphs/contributors) quíenes han participado en este proyecto.
+- _Wendy Juma_
+- _Eduardo Quisupangui_
+- _Kevin Ramirez_
 
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/ojimenezl/ProyectoPrimerParcialPW/graphs/contributors) quíenes han participado en este proyecto.
 
 ## Expresiones de Gratitud 🎁
 
-- Comenta a otros sobre este proyecto 📢
-- Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
-- Da las gracias públicamente 🤓.
-- etc.
+- Gracias a todos los integrantes que han realizado este proyecto, el cual se ha podido culminar por medio del trabajo en equipo 🍺 🍺 🍺 🍺 🍺 .
+
+- Esperamos que este aporte sea de gran ayuda para la gente que lo visita.
 
 ---
-
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
 
 ```
 
