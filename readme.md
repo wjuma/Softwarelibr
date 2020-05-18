@@ -62,9 +62,8 @@ LA MEDIA DEL 2018 ES 308242982
 - Establecer si el valor de las suscripciones del país
   determinado, es mayor o menor a la media mundial.
 
-```html
-El valor de las suscripciones del pais ECU:(15772838) es Menor a la media
-mundial:(308242982.1628788) en el año 2018
+```
+El valor de las suscripciones del pais ECU:(15772838) es Menor a la media mundial:(308242982.1628788) en el año 2018
 ```
 
 - Los cinco países por encima del valor de suscripciones del
@@ -168,7 +167,7 @@ Los recursos utilizados han sido los siguientes:
 
 - https://developer.mozilla.org/es/docs/Trazado_de_una_tabla_HTML_mediante_JavaScript_y_la_Interface_DOM
 
-- https://desarrolloweb.com/articulos/1235.php
+- https://desarrolloweb.com/articulos/1235.phps
 
 ## Autores ✒️
 
@@ -187,7 +186,3 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 - Esperamos que este aporte sea de gran ayuda para la gente que lo visita.
 
 ---
-
-```
-
-```
