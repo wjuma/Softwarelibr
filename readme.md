@@ -69,23 +69,14 @@ El valor de las suscripciones del pais ECU:(15772838) es Menor a la media mundia
 - Los cinco países por encima del valor de suscripciones del
   país determinado.
 
-```html
+```
 TOP | AÑO | PAISES | SUSCRIPCIONES
-```
-
-```html
 1 | 2018 | SEN | 16559942
-```
 
-```html
 2 | 2018 | SYR | 17129676
-```
 
-```html
 3 | 2018 | CMR | 18455836
-```
 
-```html
 4 | 2018 | BFA | 19339109
 ```
 
