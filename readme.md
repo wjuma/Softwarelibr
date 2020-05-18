@@ -164,7 +164,11 @@ Las herramientas que utilizamos son:
 
 Los recursos utilizados han sido los siguientes:
 
-[Wiki](https://github.com/tu/proyecto/wiki)
+- https://www.campusmvp.es/recursos/post/5-bibliotecas-javascript-para-creacion-de-graficas-y-visualizaciones.aspx
+
+- https://developer.mozilla.org/es/docs/Trazado_de_una_tabla_HTML_mediante_JavaScript_y_la_Interface_DOM
+
+- https://desarrolloweb.com/articulos/1235.php
 
 ## Autores ✒️
 
