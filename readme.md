@@ -44,8 +44,11 @@ Por medio de este link se dirigira a la página web: http://localhost:3000
 
 ### Analice las pruebas end-to-end 🔩
 
-- La media de suscripciones de todos los países en el año
-  especificado.
+- La media de suscripciones de todos los países en el año especificado.
+
+```html
+LA MEDIA DEL 2018 ES 308242982
+```
 
 - Establecer si el valor de las suscripciones del país
   determinado, es mayor o menor a la media mundial.
@@ -79,15 +82,56 @@ TOP | AÑO | PAISES | SUSCRIPCIONES
 
 - Los cinco países por debajo del valor de suscripciones del
   país determinado.
+
+```html
+TOP | AÑO | PAISES | SUSCRIPCIONES
+```
+
+```html
+1 | 2018 | ZMB | 15470270
+```
+
+```html
+2 | 2018 | YEM | 15297789
+```
+
+```html
+3 | 2018 | TUN | 14769594
+```
+
+```html
+4 | 2018 | MOZ | 14074248
+```
+
+```html
+5 | 2018 | AGO | 13288421
+```
+
 - El top cinco de países para el año especificado.
 
-TOP DE LOS 5 PAISES POR AÑO 2018
+```html
 CODIGO | VALOR
+```
+
+```html
 WLD | 7858266808
+```
+
+```html
 IBT | 6400236446
+```
+
+```html
 LMY | 6316274525
+```
+
+```html
 MIC | 5970863639
+```
+
+```html
 IBD | 5194063717
+```
 
 ### Y las pruebas de estilo de codificación ⌨️
 
